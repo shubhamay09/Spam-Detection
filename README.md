@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Spam detection
 
 ## General info

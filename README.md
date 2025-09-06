@@ -1,4 +1,5 @@
-# Spam detection
+# Spam-Detection
+Spam detection in SMS using NLP and ML techniques. Implemented data preprocessing, Bag of Words with six classifiers (Naive Bayes: 97%), and a pretrained BERT model achieving 98% accuracy for robust spam classification. Includes data preprocessing, feature extraction, and model comparison.
 
 ## General info
 
@@ -53,7 +54,4 @@ You can run the scripts in the terminal:
     spam_bert.py
     predictions.py
 
-=======
-# Spam-Detection
-Spam detection in SMS using NLP and ML techniques. Implemented data preprocessing, Bag of Words with six classifiers (Naive Bayes: 97%), and a pretrained BERT model achieving 98% accuracy for robust spam classification. Includes data preprocessing, feature extraction, and model comparison.
->>>>>>> f2317d25827ea6c93c3dbf60139345a4a8ebd919
+================================================
